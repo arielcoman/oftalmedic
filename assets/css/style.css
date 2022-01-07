@@ -1583,5 +1583,8 @@ margin-top: 0;}
 }
 
 @media screen and (max-width: 768px) {
-.ubicaciones{flex-direction: column;}
+.ubicaciones{flex-direction: column}
+
+}
+
 
