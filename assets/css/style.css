@@ -1597,13 +1597,9 @@ margin-top: 0;}
 .rojo{color: black;}
 .opciones{width: 100%;}
 .sedes{padding-left: 0px;}
-  
-  #topbar span[href^="tel"] {
-  color: Inherit; /* Inherit text color of parent element. */
-  text-decoration: none; /* Remove underline. */
-  /* Additional css `propery: value;` pairs here */
-}
-
+#topbar {
+background-color: white;
+color:#23a63b ;
 }
 
 
