@@ -344,7 +344,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #555555;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #23a63b;
+  color: white;
 }
 .navbar-mobile .dropdown ul {
   position: static;
@@ -1601,3 +1601,8 @@ margin-top: 0;}
 }
 
 
+#topbar span[href^="tel"] {
+  color: white; /* Inherit text color of parent element. */
+  text-decoration: none; /* Remove underline. */
+  /* Additional css `propery: value;` pairs here */
+}
