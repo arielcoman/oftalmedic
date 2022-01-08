@@ -1599,7 +1599,7 @@ margin-top: 0;}
 .sedes{padding-left: 0px;}
   
   #topbar span[href^="tel"] {
-  color: white; /* Inherit text color of parent element. */
+  color: Inherit; /* Inherit text color of parent element. */
   text-decoration: none; /* Remove underline. */
   /* Additional css `propery: value;` pairs here */
 }
