@@ -524,7 +524,7 @@ h1, h2, h3, h4, h5, h6 {
 # Sections General
 --------------------------------------------------------------*/
 section {
-  padding: 60px 0;
+  padding: 20px 0;
   overflow: hidden;
 }
 
@@ -1582,9 +1582,22 @@ margin-top: 0;}
 
 }
 
+.opciones{
+
+  width: 14rem;
+}
+
+.sedes{
+  padding-left: 10px;
+}
+
+
 @media screen and (max-width: 768px) {
 .ubicaciones{flex-direction: column}
 .rojo{color: black;}
+.opciones{width: 100%;}
+.sedes{padding-left: 0px;}
+
 }
 
 
