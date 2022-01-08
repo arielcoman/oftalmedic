@@ -1597,12 +1597,13 @@ margin-top: 0;}
 .rojo{color: black;}
 .opciones{width: 100%;}
 .sedes{padding-left: 0px;}
-
-}
-
-
-#topbar span[href^="tel"] {
+  
+  #topbar span[href^="tel"] {
   color: white; /* Inherit text color of parent element. */
   text-decoration: none; /* Remove underline. */
   /* Additional css `propery: value;` pairs here */
 }
+
+}
+
+
